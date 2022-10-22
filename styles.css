@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center; 
+    color: #556B2F;
+}
+
+table {
+    border: 2px solid #556B2F;
+    text-align: center;
+    width: 650px;
+    margin: 0px auto;
+  }
+
+thead {
+    background-color: #556B2F;
+}
+
+body {
+    background-color: #DCDCDC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    border-top: 1px solid darkgreen;
+}
